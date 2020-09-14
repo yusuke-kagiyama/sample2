@@ -9,5 +9,7 @@ public class SampleExec {
 		System.out.print("cccc");
 		
 		System.out.println("dddd");
+		
+		System.out.println("version 2");
 	}
 }
